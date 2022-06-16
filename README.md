@@ -13,7 +13,6 @@
 7. <ins> Функция "поделиться товаром" </ins>. <br>
 ---
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/y/AnastasiyaMAV/words_on_cards_project?color=%23ffcc00) ![GitHub top language](https://img.shields.io/github/languages/top/AnastasiyaMAV/words_on_cards_project?color=%23ffcc00) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/AnastasiyaMAV/words_on_cards_project?color=%23ffcc00) ! ![GitHub last commit](https://img.shields.io/github/last-commit/AnastasiyaMAV/words_on_cards_project?color=%23ffcc00) ![GitHub language count](https://img.shields.io/github/languages/count/AnastasiyaMAV/words_on_cards_project?color=%23ffcc00)
 
 ![gif](https://github.com/Samdanova/FurnitureShop/blob/main/src/images/ver1.gif)
 

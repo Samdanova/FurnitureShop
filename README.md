@@ -27,7 +27,7 @@
 
 ```
 git clone https://github.com/Samdanova/FurnitureShop.git
-cd english-cards
+cd furniture-shop
 npm install
 npm start
 ```
